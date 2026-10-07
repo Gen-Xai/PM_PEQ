@@ -40,4 +40,15 @@ The USB PEQ protocol implementation was developed with reference to [jeromeof/de
 
 ## License
 
-0BSD. See [LICENSE](LICENSE) for details.
+This project is licensed under the 0BSD License. See [LICENSE](LICENSE) for details.
+
+Third-party libraries bundled in the APK are distributed under their own licenses, listed below.
+
+## Third-party licenses
+
+This app includes the following libraries, all licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0):
+
+- AndroidX (Core KTX, Lifecycle, Activity Compose)
+- Jetpack Compose (UI, Material 3, Material Icons Extended)
+- Kotlin and kotlinx.serialization
+- kotlinx.coroutines
