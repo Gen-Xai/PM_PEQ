@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CrinEar Protocol Max -->
+    <usb-device vendor-id="13058" product-id="17356" />
+</resources>
