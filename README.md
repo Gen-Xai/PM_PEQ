@@ -18,7 +18,7 @@ A native Android application for configuring and saving the PEQ settings of the 
 
 ## Installation
 
-- Download the APK from [Releases](../../releases).
+- ~~Download the APK from [Releases](../../releases).~~ The APK is currently being prepared.
 - To build from source, download the source ZIP and build the project.
 
 ## Usage
